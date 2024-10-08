@@ -251,7 +251,7 @@ I’m currently seeking internship opportunities in data science and software de
         <!-- Interests Card 1 -->
         <div class="certification-card">
             <div>
-                <li>Languages: C#, Python, Java, SQL, MySQL, jQuery, AngularJS.</li>
+                <li>Languages: Python, C#, Java, SQL, MySQL, jQuery.</li>
                 <li>Deployment: .NET 8, Visual Studio, Google Collab.</li>
             </div>
         </div>
@@ -277,34 +277,36 @@ I’m currently seeking internship opportunities in data science and software de
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
             <div>
                 <h5>PhD in Computer Science and Engineering </h5>
-                <p>Expected - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a></small></p>
+                <p>2023 - 2026<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a></small></p>
             </div>
         </div>
+
+ <!-- Education Card 3 -->
+        <div class="education-card">
+            <img src="https://www.odu.edu/sites/default/files/logos/univ/png-72dpi/odu-sig-noidea-fullcolor.png" alt="Graduation Cap">
+            <div>
+                <h5>PhD in Computer Science and Engineering- Transfered</h5>
+                <p>2012-2023<br><small><a href="https://www.odu.edu" target="_blank">Old Dominion University</a></small></p>
+            </div>
+        </div>
+
 
         <!-- Education Card 2 -->
         <div class="education-card">
-            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
+            <img src="https://en.wikipedia.org/wiki/University_of_Isfahan#/media/File:University_of_Isfahan_Logo.png" alt="Graduation Cap">
             <div>
-                <h5>MSc in Information Systems Security (MISS)</h5>
-                <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464" target="_blank">Bangladesh University of Professionals (BUP)</a></small></p>
+                <h5>MSc in Computer Science</h5>
+                <p>2016-2019<br><small><a href="https://www.ui.ac.ir/EN" target="_blank">University of Isfahan</a></small></p>
             </div>
         </div>
 
-        <!-- Education Card 3 -->
-        <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
-            <div>
-                <h5>MBA in Management Information Systems</h5>
-                <p>2016<br><small><a href="https://www.fbs-du.com/mis.php" target="_blank">University of Dhaka (DU)</a></small></p>
-            </div>
-        </div>
-
+       
         <!-- Education Card 4 -->
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/1200px-BUET_LOGO.svg.png" alt="Graduation Cap">
+            <img src="https://en.wikipedia.org/wiki/University_of_Isfahan#/media/File:University_of_Isfahan_Logo.png" alt="Graduation Cap">
             <div>
-                <h5>BSc in Computer Science and Engineering</h5>
-                <p>2011<br><small><a href="https://cse.buet.ac.bd/" target="_blank">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
+                <h5>BSc in Computer Science</h5>
+               <p>2012-2016<br><small><a href="https://www.ui.ac.ir/EN" target="_blank">University of Isfahan</a></small></p>
             </div>
         </div>
     </div>
