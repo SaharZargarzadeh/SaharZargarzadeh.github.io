@@ -228,8 +228,11 @@ redirect_from:
         <!-- Biography Card without the Icon -->
         <div class="certification-card" style="grid-column: 1 / -1;">
             <div>
-                <p>I’m Sahar Ph.D. student in the Computer Science department at The University of Texas at Arlington, where <a href="https://www.uta.edu/academics/faculty/profile?username=islamm6" target="_blank">Dr. Mohammad Atiqul Islam</a> is my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, and resource autoscaling in cloud computing environments.</p>
-                <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles, including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/" target="_blank">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://bdccl.gov.bd/" target="_blank">Tier IV National Data Center</a>, <a href="https://ndc.bcc.gov.bd/" target="_blank">National Data Center (NDC)</a> and <a href="https://www.cirt.gov.bd/" target="_blank">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/" target="_blank">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/" target="_blank">KPMG Bangladesh</a>, one of the "Big Four" accounting firms.</p>
+                <p>I’m Sahar Zargarzadeh, a Ph.D. student in the Computer Science department at The University of Texas at Arlington. My research focuses on machine learning, AI, and data-driven solutions, with an emphasis on neural networks, adversarial attacks, and power-side channel data analysis. Under the guidance of <a href="https://www.uta.edu/academics/faculty/profile?username=islamm6" target="_blank"> Dr. Mohammad Atiqul Islam </a>, I am exploring innovative AI techniques to enhance model accuracy and efficiency.
+                </p>
+                <p>Before pursuing my Ph.D., I gained over 5 years of experience as a software developer, specializing in backend development, AI model implementation, and data science projects. My expertise spans technologies like C#, Python, SQL, and machine learning frameworks, working on projects from predictive modeling to large-scale system design.
+
+I’m currently seeking internship opportunities in data science and software development to apply my research skills and professional experience to impactful, real-world challenges.</p>
                 
                 <!-- New Download CV section -->
                 <div class="cv-link-wrapper">
