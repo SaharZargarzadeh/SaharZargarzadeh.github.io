@@ -293,7 +293,7 @@ I’m currently seeking internship opportunities in data science and software de
 
         <!-- Education Card 2 -->
         <div class="education-card">
-            <img src="https://en.wikipedia.org/wiki/University_of_Isfahan#/media/File:University_of_Isfahan_Logo.png" alt="Graduation Cap">
+            <img src="/images/University_of_Isfahan_Logo.png" alt="Graduation Cap">
             <div>
                 <h5>MSc in Computer Science</h5>
                 <p>2016-2019<br><small><a href="https://www.ui.ac.ir/EN" target="_blank">University of Isfahan</a></small></p>
