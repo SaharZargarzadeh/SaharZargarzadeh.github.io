@@ -283,7 +283,7 @@ I’m currently seeking internship opportunities in data science and software de
 
  <!-- Education Card 3 -->
         <div class="education-card">
-            <img src="https://www.odu.edu/sites/default/files/logos/univ/png-72dpi/odu-sig-noidea-fullcolor.png" alt="Graduation Cap">
+            <img src="https://www.odu.edu/sites/default/files/logos/univ/png-72dpi/odu-secondary-noidea-fullcolor.png" alt="Graduation Cap">
             <div>
                 <h5>PhD in Computer Science and Engineering- Transfered</h5>
                 <p>2012-2023<br><small><a href="https://www.odu.edu" target="_blank">Old Dominion University</a></small></p>
