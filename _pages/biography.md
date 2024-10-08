@@ -251,15 +251,15 @@ I’m currently seeking internship opportunities in data science and software de
         <!-- Interests Card 1 -->
         <div class="certification-card">
             <div>
-                <li>Languages: Python, C#, Java, SQL, MySQL, jQuery.</li>
-                <li>Deployment: .NET 8, Visual Studio, Google Collab.</li>
+                <li>Languages: Python, C#, Java, SQL, MySQL, jQuery</li>
+                <li>Deployment: .NET 8, Visual Studio, Google Collab</li>
             </div>
         </div>
 
         <!-- Interests Card 2 -->
         <div class="certification-card">
             <div>
-                <li>Databases: SQL Server, MongoDB, </li> 
+                <li>Databases: SQL Server, MongoDB </li> 
                 <li>Frameworks: Git, Docker </li> 
             </div>
         </div>
