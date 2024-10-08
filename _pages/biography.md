@@ -303,7 +303,7 @@ I’m currently seeking internship opportunities in data science and software de
        
         <!-- Education Card 4 -->
         <div class="education-card">
-            <img src="https://en.wikipedia.org/wiki/File:University_of_Isfahan_Logo.png" alt="Graduation Cap">
+            <img src="https://commons.wikimedia.org/w/index.php?curid=152950827#/media/File:University_of_Isfahan_Logo.png" alt="Graduation Cap">
             <div>
                 <h5>BSc in Computer Science</h5>
                <p>2012-2016<br><small><a href="https://www.ui.ac.ir/EN" target="_blank">University of Isfahan</a></small></p>
