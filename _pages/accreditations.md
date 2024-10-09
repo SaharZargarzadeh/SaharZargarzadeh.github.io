@@ -187,8 +187,8 @@ author_profile: true
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
         <div class="certification-card">
-            <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-            <h6>Docker Foundation Professional Certificate</h6>
+    
+            <h5><a href="https://www.linkedin.com/learning/certificates/a4d98e1fda6138d1ed683c463d1858d6c0d0018d61672cd36ac57dce59b0f1db?u=56687537" target="_blank">Docker Foundation Professional Certificate</a> · Sep 2024</h5>
         </div>
 
         <div class="certification-card">
