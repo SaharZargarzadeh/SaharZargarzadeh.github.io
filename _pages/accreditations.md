@@ -188,22 +188,27 @@ author_profile: true
     <div class="certification-layout">
         <div class="certification-card">
     
-            <h5><a href="https://www.linkedin.com/learning/certificates/a4d98e1fda6138d1ed683c463d1858d6c0d0018d61672cd36ac57dce59b0f1db?u=56687537" target="_blank">Docker Foundation Professional Certificate</a> · Sep 2024</h5>
+            <h5><a href="https://www.linkedin.com/learning/certificates/a4d98e1fda6138d1ed683c463d1858d6c0d0018d61672cd36ac57dce59b0f1db?u=56687537" target="_blank">Docker Foundation Professional Certificate</a></h5>
+            <h6> Sep 2024</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://bestiimm.com/wp-content/uploads/2023/12/lss-black-belt.png" alt="Lean Six Sigma Black Belt Icon">
-            <h6>Develop Advanced AI applications with Python</h6>
+
+          <h5><a href="https://www.linkedin.com/learning/certificates/131324454694fa0dda87b63b844a7a8381a7e18fc9219aaa6efbc0f273fa911f?u=56687537" target="_blank">Develop Advanced AI applications with Python</a></h5>
+            <h6> Aug 2024</h6>
+    
         </div>
 
         <div class="certification-card">
-            <img src="https://www.guide-it.de/wp-content/uploads/2019/05/Prince-2-Practitioner.png" alt="PRINCE2 Practitioner Icon">
-            <h6>Azure Machine Learning Development Certificate</h6>
+
+        <h5><a href="https://www.linkedin.com/learning/certificates/25729bde44f9d8ec04fc72c2ca0016db2b4c632815deead2b4fdbf62fedc7084?u=56687537" target="_blank">Azure Machine Learning Development Certificate</a></h5>
+            <h6> Aug 2023</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ix1KGvrH2nM3mL4u-U5y3eoQ1RHffA-X8Q&s" alt="PRINCE2 Foundation Icon">
-            <h6>Explore a Career in Machine Learning Engineering Learning Path Certificate </h6>
+
+        <h5><a href="https://www.linkedin.com/learning/certificates/ed5e41c72bd745dde4c09b730e92781d09940c6d18dce980b9fcedce989cf112?u=56687537" target="_blank">Explore a Career in Machine Learning Engineering Learning Path Certificate </a></h5>
+            <h6> Jul 2023</h6>
         </div>
     </div>
 </div>
@@ -214,24 +219,32 @@ author_profile: true
 
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
+    
         <div class="certification-card">
-            <img src="https://appliedtechnologyacademy.com/wp-content/uploads/2024/03/crisc_logo_rgb.webp" alt="CRISC Icon">
-            <h6>ASP.Net Core Developer Certificate</h6>
+
+        <h5><a href="https://www.linkedin.com/learning/certificates/16a4c55358f9d63d4b4ef0e948160be2178f70ce5f371bd00b88e734fb2e2365?u=56687537" target="_blank">ASP.Net Core Developer Certificate</a></h5>
+            <h6> Aug 2024</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://www.tascmanagement.com/wp-content/uploads/2016/03/LOGO_ISO-IEC27001-Lead-Implementer.png" alt="ISO/IEC 27001 Lead Implementer Icon">
-            <h6>Advanced Web APIs with ASP.Net Core 8</h6>
+
+        <h5><a href="https://www.linkedin.com/learning/certificates/6b8bd4bdbba5faddea6beaeb9cc59b848d1b6630c81fe649cf9e691a9c7e6f38?u=56687537" target="_blank">Advanced Web APIs with ASP.Net Core 8</a></h5>
+            <h6> Aug 2024</h6>
+            
+    
         </div>
 
         <div class="certification-card">
-            <img src="https://principledefence.com/wp-content/uploads/2022/09/ISO-27701-certified.jpg" alt="ISO/IEC 27701 Icon">
-            <h6>Deploying ASP.NET Applications</h6>
+        <h5><a href="https://www.linkedin.com/learning/certificates/16a4c55358f9d63d4b4ef0e948160be2178f70ce5f371bd00b88e734fb2e2365?u=56687537" target="_blank">Deploying ASP.NET Applications</a></h5>
+            <h6> Aug 2024</h6>
+            
         </div>
 
         <div class="certification-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT62vFTrUUXr_U1IiTyzAEzLQJyT9H5FBOSag&s" alt="ITIL Foundation Icon">
-            <h6>Containerize Applications with Docker</h6>
+        <h5><a href="https://www.linkedin.com/learning/certificates/a4d98e1fda6138d1ed683c463d1858d6c0d0018d61672cd36ac57dce59b0f1db?u=56687537" target="_blank">Containerize Applications with Docker</a></h5>
+            <h6> Sep 2024</h6>
+            
+    
         </div>
     </div>
 </div>
@@ -243,13 +256,16 @@ author_profile: true
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
         <div class="certification-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2igHcJAr6x1OZ_ywY4XRQ0L4j9-sn0P0Ubg&s" alt="CISA Icon">
-            <h6>Volunteering in Cyber security camp at Old Dominion University </h6>
+
+        <h5><a href="https://www.odu.edu/computational-cybersecurity-networks-infrastructure/gencyber" target="_blank">Volunteering in Cyber security camp at Old Dominion University</a></h5>
+            <h6> Jul 2022</h6>
+           
         </div>
 
         <div class="certification-card">
-            <img src="https://1111systems.com/wp-content/uploads/2021/04/CSA-STAR-Certification.png" alt="CSA STAR Certification Icon">
-            <h6>Network Basics (Network+) and Security Certification</h6>
+
+        <h5><a href="https://drive.google.com/file/d/15Nwp1LNS84jqC7pzCcSwZ9uv0vumeyR4/view?pli=1" target="_blank">Network Basics (Network+) and Security Certification</a></h5>
+            <h6> May 2019</h6>
         </div>
     </div>
 </div>
