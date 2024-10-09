@@ -215,33 +215,14 @@ author_profile: true
         <div class="certification-card">
             <div class="education-card">
                 <div class="flex-row">
-                    <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="BUP Logo">
-                    <h5>Chancellor's Gold Medal</h5>
+                    <img src="\images\University_of_Isfahan_Logo.png" alt="isfahan Logo">
+                    <h5>Master Acceptance</h5>
                 </div>
-                <p>Recipient of the prestigious Chancellor's Gold Medal, awarded by the President of the People's Republic of Bangladesh, for achieving top honors at the master's level, 2020<br><small><a href="https://bup.edu.bd/academics/academic_details/464" target="_blank">Bangladesh University of Professionals (BUP)</a></small></p>
+                <p>Selected as part of the top 5% of my class during my Bachelor's degree at the University of Isfahan, earning direct admission to the Master's program without needing an entrance exam.<br><small><a href="https://www.ui.ac.ir/EN" target="_blank">University of Isfahan</a></small></p>
             </div>
         </div>
 
-        <div class="certification-card">
-            <div class="education-card">
-                <div class="flex-row">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="JICA Logo">
-                    <h5>IT Engineers Examinations (ITEE)</h5>
-                </div>
-                <p>Participated in a competitive examination to support the vision of Digital Bangladesh and earned the distinguished ITEE certification, awarded by JICA, 2010<br><small><a href="https://www.jica.go.jp/english/" target="_blank">Japan International Cooperation Agency (JICA)</a></small></p>
-            </div>
-        </div>
-
-        <div class="certification-card">
-            <div class="education-card">
-                <div class="flex-row">
-                    <img src="https://play-lh.googleusercontent.com/UfQw66njIZLmRcxcQivESKmgllkMXgDS2njDaUK_SCtL1iP9iCyOiwmVExMdzZV7XKtG" alt="Janata Bank Logo">
-                    <h5>Gold Medal</h5>
-                </div>
-                <p>Received a distinguished gold medal for exceptional performance in 12th grade, awarded by the Janata Bank PLC Employees Benevolent Fund Managing Committee, 2007.<br><small><a href="https://www.jb.com.bd/" target="_blank">Janata Bank PLC</a></small></p>
-            </div>
-        </div>
-
+      
     </div>
 </div>
 
@@ -265,50 +246,10 @@ author_profile: true
         <div class="certification-card">
             <div class="education-card">
                 <div class="flex-row">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBn12ofDmB_Z0obKO8ohLuKUPY2P9ceUF0iw&s" alt="ISACA Logo">
-                    <h5>Silver Member</h5>
+                    <img src="\images\swe.png" alt="swe Logo">
+                    <h5>Member of SWE</h5>
                 </div>
-                <p>2017 - Present<br><small><a href="https://www.isaca.org/" target="_blank">Information Systems Audit and Control Association (ISACA)</a></small></p>
-            </div>
-        </div>
-
-        <div class="certification-card">
-            <div class="education-card">
-                <div class="flex-row">
-                    <img src="https://w7.pngwing.com/pngs/308/703/png-transparent-pmi-hd-logo-thumbnail.png" alt="PMI Logo">
-                    <h5>Member</h5>
-                </div>
-                <p>2020 - Present<br><small><a href="https://my.pmi.org/" target="_blank">Project Management Institute (PMI)</a></small></p>
-            </div>
-        </div>
-
-        <div class="certification-card">
-            <div class="education-card">
-                <div class="flex-row">
-                    <img src="https://e7.pngegg.com/pngimages/768/788/png-clipart-ec-council-certified-ethical-hacker-computer-security-information-security-certified-ethical-hacker-emblem-label.png" alt="EC-Council Logo">
-                    <h5>Member</h5>
-                </div>
-                <p>2016 - Present<br><small><a href="https://www.eccouncil.org/" target="_blank">EC-Council</a></small></p>
-            </div>
-        </div>
-
-        <div class="certification-card">
-            <div class="education-card">
-                <div class="flex-row">
-                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Institution_of_Engineers%2C_Bangladesh_Emblem.svg/1200px-Institution_of_Engineers%2C_Bangladesh_Emblem.svg.png" alt="IEB Logo">
-                    <h5>Life Member</h5>
-                </div>
-                <p>2013 - Present<br><small><a href="https://www.iebbd.org/" target="_blank">The Institution of Engineers, Bangladesh (IEB)</a></small></p>
-            </div>
-        </div>
-
-        <div class="certification-card">
-            <div class="education-card">
-                <div class="flex-row">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bangladesh_Computer_Society.svg/1200px-Bangladesh_Computer_Society.svg.png" alt="BCS Logo">
-                    <h5>Life Member</h5>
-                </div>
-                <p>2013 - Present<br><small><a href="https://www.bcsbd.org.bd/" target="_blank">Bangladesh Computer Society (BCS)</a></small></p>
+                <p>2023 - Present<br><small><a href="https://swe.org/" target="_blank">Society of Women Engineers</a></small></p>
             </div>
         </div>
     </div>
@@ -318,7 +259,7 @@ author_profile: true
     <div class="links">
         <a href="#">Sitemap</a> | <a href="#">GitHub</a> | <a href="#">RSS</a>
     </div>
-    © 2024 Mohammad Shahedur Rahman. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
+    © 2024 Sahar Zargarzadeh. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
 </footer>
 
 </body>
