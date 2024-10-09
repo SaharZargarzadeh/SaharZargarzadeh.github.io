@@ -258,9 +258,9 @@ author_profile: true
         <!-- Role 2: Beamforming oriented topology control for mm-Wave networks -->
         <div class="experience-card">
             <h3>Beamforming oriented topology control for mm-Wave networks</h3>
-            <h4><a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a> · Jan 2022 – June 2023</h4> 
+            <h4><a href="https://www.odu.edu" target="_blank">Old Dominion University</a> · Jan 2022 – June 2023</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
+            <img src="https://www.odu.edu/sites/default/files/logos/univ/png-72dpi/odu-secondary-noidea-fullcolor.png" alt="old dominion university Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li> Developed predictive models for RX throughput in mm-wave systems using supervised learning, simulating 64 Beamforming channels with advanced feature engineering techniques.</li>
