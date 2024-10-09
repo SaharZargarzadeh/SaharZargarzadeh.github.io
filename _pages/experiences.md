@@ -242,144 +242,73 @@ author_profile: true
 
         <!-- Role 1: Design a Power Consumption ML Backdoor Attack in the Spirit of Mirai for IoT devices  -->
         <div class="experience-card">
-            <h3>Graduate Student Researcher</h3>
+            <h3>Design a Power Consumption ML Backdoor Attack in the Spirit of Mirai for IoT devices</h3>
             <h4><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a> · Aug 2023 – Present</h4>
             <h5>Texas, USA</h5>
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Optimized resource allocation and scaling strategies for microservice-based cloud applications, enhancing computational efficiency and overall system performance.</li>
-                <li>Designed and implemented a Kubernetes-based Resource Manager to orchestrate microservices, dynamically improving deployment scalability and operational resilience.</li>
-                <li>Identified and mitigated critical resource bottlenecks in microservices architecture, ensuring peak performance across distributed cloud environments.</li>
-            </ul>
-            <div class="section-header">Contributions</div>
-            <ul class="section-content">
-                <li>Implemented early SLO violation detection to streamline CPU utilization, driving greater resource efficiency, reducing unnecessary CPU overhead, and saving costs.</li>
+                <li>Pioneered a neural adversarial attack strategy targeting AI model vulnerabilities in Deep Learning power side channel classifiers for IoT devices.</li>
+                <li> Utilized GANs to generate variations of dummy code in Mirai-infected IoT devices, altering power consumption patterns to cause misclassification and enable a 96% efficient model hijacking process.</li>
+
+                <li>Conducted time series analysis using deep learning models like autoencoders and AI explainability tools to recognize patterns and subsequently trained RNN models for anomaly detection in power consumption data.</li>
             </ul>
         </div>
 
-        <!-- Role 2: Chief Information Security Officer (CISO) -->
+        <!-- Role 2: Beamforming oriented topology control for mm-Wave networks -->
         <div class="experience-card">
-            <h3>Chief Information Security Officer (CISO)</h3>
-            <h4><a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a> · Nov 2022 – Aug 2023</h4> 
+            <h3>Beamforming oriented topology control for mm-Wave networks</h3>
+            <h4><a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a> · Jan 2022 – June 2023</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Led tactical security initiatives, aligning goals with business objectives while driving policy creation, risk assessment, knowledge training, and incident response.</li>
-                <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
-                <li>Fostered strategic stakeholder relationships, effectively communicated security insights, and shared best practices to elevate organizational cybersecurity awareness.</li>
-                <li>Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</li>
-            </ul>
-            <div class="section-header">Contributions</div>
-            <ul class="section-content">
-                <li>Directed deploying advanced Ransomware prevention and Extended Detection and Response (XDR) systems, ensuring stakeholders can operate seamlessly while protecting the bank’s reputation and business continuity.</li>     
-                <li>Augmented cybersecurity protocols across 187 branches, 33 sub-branches, and 1,041 agent-banking outlets, safeguarding operations from evolving threats and ensuring uninterrupted service.</li>
-                <li>Strengthened BRAC Bank’s position as a member of the Global Alliance for Banking on Values (GABV), aligning with global standards in secure and sustainable banking, reinforcing its leadership in the financial industry.</li>
+                <li> Developed predictive models for RX throughput in mm-wave systems using supervised learning, simulating 64 Beamforming channels with advanced feature engineering techniques.</li>
+        <li> Optimized base station power, reduced beam interference, and improved user grouping strategies, resulting in an 89% performance improvement compared to BOON topology control schemes.</li>
             </ul>
         </div>
 
-        <!-- Role 3: National IT Security Consultant -->
+        <!-- Role 3: Cooperative spectrum sensing technique CR-VANET -->
         <div class="experience-card">
-            <h3>National IT Security Consultant</h3>
-            <h4><a href="https://bcc.gov.bd/" target="_blank">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a> · Jan 2019 – Sep 2022</h4> 
+            <h3>Cooperative spectrum sensing technique CR-VANET</h3>
+            <h4><a href="https://bcc.gov.bd/" target="_blank">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a> · May 2018 – Sep 2019</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bangladesh_Computer_Council_Logo.svg" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Served as a key strategist in strengthening Bangladesh's cybersecurity landscape through comprehensive initiatives addressing technical and strategic challenges.</li>
-                <li>Demonstrated expertise in cyber threats, risk management, infrastructure development, and policy formulation, which is critical in advancing the nation's cybersecurity posture.</li>
-                <li>Contributed to building a resilient cybersecurity defense ecosystem for the Government of Bangladesh, enhancing technical capabilities and fostering security awareness across various sectors.</li>
-                <li>Acted as a pivotal force in shaping national cybersecurity policies and awareness efforts, collaborating with government agencies, financial institutions, law enforcement agencies (LEAs), critical infrastructures, academia, and civil societies.</li>
-                <li>Supervised audit teams by creating detailed plans, guiding them through the process, and preparing blueprints for prevention, detection, correction, and deterrent controls for the 
-Government.</li>
+                <li>Designed a data-driven consensus algorithm leveraging advanced statistics and machine learning to enhance spectrum sensing accuracy by 98%, optimizing band detection and reducing spectrum handoffs.</li>
+                <li>Implemented a consensus-based approach that considered neighboring nodes to further improve spectrum sensing accuracy, minimizing disruptions and enhancing network stability.</li>
             </ul>
-            <div class="section-header">Contributions</div>
-            <ul class="section-content">
-                <li>Significantly imparted in developing Bangladesh's National Cybersecurity Strategy, IT Audit Framework, and Cloud Computing Framework policy, reinforcing the nation's digital security posture.</li>
-                <li>Oversaw auditing efforts for the <a href="https://ndc.bcc.gov.bd/" target="_blank">National Data Center (NDC)</a>, <a href="https://www.cirt.gov.bd/" target="_blank">BGD e-GOV CIRT</a>, <a href="https://bdccl.gov.bd/" target="_blank">Tier IV National Data Center</a>, and Critical Information Infrastructures (CIIs) by ensuring compliance with stringent security standards.</li>
-            </ul> 
         </div>
 
  <h2>Professional Experience</h2>
     <div class="separator"></div>
 
-        <!-- Role 4: Assistant Vice President -->
+        <!-- Role 4: Data Science Developer- Online Registration (ideal for camps, and classes) -->
         <div class="experience-card">
-            <h3>Assistant Vice President</h3>
-            <h4><a href="https://www.ebl.com.bd/" target="_blank">Eastern Bank PLC</a> · Nov 2016 – Dec 2018</h4> 
+            <h3>Data Science Developer- Online Registration (ideal for camps, and classes)</h3>
+            <h4><a href="https://jumbula.com/" target="_blank">Jumbula</a> · Jul 2019 – Sep 2021</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://play-lh.googleusercontent.com/cEk_c4aNXPvN5SdT8IdDdSfHgFrtxhBx__0PGWafT6Y81Jv4I6nwBElLgdzkIQS7d868" alt="Eastern Bank PLC Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Headed the IT Security team, setting strategic direction and overseeing the development and implementation of the bank’s comprehensive information security strategy and architecture.</li>
-                <li>Formulated and enforced stringent security policies and standards, ensuring strict compliance with regulations and cybersecurity laws.</li>
-                <li>Steered bank-wide threat detection and response initiatives, conducting thorough risk assessments and driving proactive vulnerability management across critical systems.</li>
-                <li>Pioneered integrating innovative security technologies, strengthening the bank's infrastructure against evolving threats, and successfully leading high-impact IT security projects to completion.</li>
-            </ul>
-            <div class="section-header">Contributions</div>
-            <ul class="section-content">
-                <li>Secured PCI-DSS compliance, the gold standard for protecting sensitive client data, mitigating breaches, and safeguarding customers from financial and identity theft risks.</li>
-                <li>Instrumental in Eastern Bank PLC’s trailblazing PCI-DSS implementation, solidifying its position as a frontrunner in data security within Bangladesh’s banking sector.</li>
-                <li>Activated 24/7 cyber defenses using SIEM and SOAR systems, fending off major threats like ransomware and DDoS attacks and protecting assets.</li>
+                <li>Designed a data-driven online registration system using ASP.NET Core and SQL Server, applying machine learning to analyze user behavior and forecast enrollment trends, enhancing reporting accuracy and resource planning.</li>
+                <li>Developed a comprehensive registration system with an intuitive admin dashboard, managing classroom capacities, student rosters, and financial data through ASP.NET Core, integrated with SQL Server.</li>
             </ul>
         </div>
 
-        <!-- Role 5: Assistant Manager (Cybersecurity) -->
+        <!-- Role 5: Software Developer- High-Speed Internet and communication -->
         <div class="experience-card">
-            <h3>Assistant Manager (Cybersecurity)</h3>
-            <h4><a href="https://kpmg.com/bd/en/home.html" target="_blank">KPMG Bangladesh "Big Four"</a> · Feb 2015 – Nov 2016</h4> 
+            <h3>Software Developer- High-Speed Internet and Communication </h3>
+            <h4><a href="http://shop.panaone.com/" target="_blank">Panaone</a> · Mar 2017 – Jul 2019</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://1000logos.net/wp-content/uploads/2023/03/KPMG-logo.png" alt="KPMG Bangladesh Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
-                <li>Orchestrated project execution, preparing RFPs and technical proposals for security audits and developing IT policies aligned with international standards (ISO 27001, ITIL, COBIT) and regulatory guidelines.</li>
-                <li>Coordinated as a critical liaison between IT and business units, managing SLAs, resolving security-related breaches, and driving service improvements.</li>
-                <li>Conducted risk management assessments, utilizing CRAMM methodologies to pinpoint and mitigate IT risks while streamlining business processes through gap analysis and workflow redesign using MS Visio.</li>
+                <li>Established customer internet service processes using Process Maker and Magento Deployment. Integrated these systems by 92% with a central C# and SQL Server-driven server.</li>
+                <li>Developed a C# web application server using Asp.net 3 and SQL Server DB 2018 for an automated telephony system, executing diverse functions.</li>
             </ul>
-            <div class="section-header">Contributions</div>
-            <ul class="section-content">
-                <li>Strengthened the resilience of Payment and Settlement Systems of the Central Bank (Bangladesh Bank) by conducting thorough IT security audits, ensuring the stability and security of critical financial operations.</li>
-                <li>Fortified the IT infrastructure and bolstered the credibility of Dhaka Bank PLC, NCC Bank PLC, Prime Bank PLC, BRAC Bank PLC, and Al-Arafah Islami Bank PLC, holding 15% of the market share through comprehensive security audits.</li>
-            </ul>
-        </div>
-
-        <!-- Role 6: Senior Programmer (ERP Security) -->
-        <div class="experience-card">
-            <h3>Senior Programmer (ERP Security)</h3>
-            <h4><a href="https://www.ibcs-primax.com/" target="_blank">IBCS-PRIMAX Software(Bangladesh) Limited</a> · Jan 2014 – Feb 2015</h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://iconape.com/wp-content/files/sl/341486/svg/341486.svg" alt="IBCS-PRIMAX Logo">
-            <div class="section-header">Responsibilities</div>
-            <ul class="section-content">
-                <li>Ensured robust database security through proactive maintenance, backups, and monitoring while securely integrating ERP systems to minimize risks.</li>
-                <li>Identified and mitigated security vulnerabilities via regular scans, testing, and role-based access control (RBAC) implementation.</li>
-                <li>Secured sensitive data through encryption, masking, and compliance with data privacy regulations (GDPR, CCPA), with frequent backups and recovery tests.</li>
-                <li>Managed secure ERP configurations and applied timely patches to address vulnerabilities and maintain system integrity.</li>
-            </ul>
-            <div class="section-header">Contributions</div>
-            <ul class="section-content">
-                <li>Securely implemented ERP solutions such as Oracle E-Business Suite and JD Edwards in multiple organizations, enabling seamless, efficient service delivery to a large customer base, enhancing operational smoothness and reliability.</li>
-            </ul>
-        </div>
-
-        <!-- Role 7: IT Specialist (Security) -->
-        <div class="experience-card">
-            <h3>IT Specialist (Security)</h3>
-            <h4><a href="https://www.ibm.com/us-en/" target="_blank">IBM Bangladesh</a> · Oct 2012 – Dec 2013</h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://purepng.com/public/uploads/large/purepng.com-ibm-logologobrand-logoiconslogos-251519939113t2tuw.png" alt="IBM Bangladesh Logo">
-            <div class="section-header">Responsibilities</div>
-            <ul class="section-content">
-                <li>Facilitated security analysis, collaborating with stakeholders to align advanced solutions with business goals.</li>
-                <li>Organized security integration across projects, ensuring compliance with standards and monitoring SLAs.</li>
-                <li>Enhanced database security through proactive monitoring, secure backups, and strategic capacity planning while maintaining detailed documentation for optimization.</li>
-            </ul>
-            <div class="section-header">Contributions</div>
-            <ul class="section-content">
-                <li>Actively ensured seamless operations for Airtel Bangladesh, the second-largest mobile operator, by delivering critical IT and security services through IBM, supporting their customer experience with precision and reliability.</li>
-            </ul>
+            
         </div>
 
     </div>
