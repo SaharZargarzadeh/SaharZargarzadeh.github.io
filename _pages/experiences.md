@@ -259,7 +259,7 @@ author_profile: true
         <div class="experience-card">
             <h3>Beamforming oriented topology control for mm-Wave networks</h3>
             <h4><a href="https://www.odu.edu" target="_blank">Old Dominion University</a> · Jan 2022 – June 2023</h4> 
-            <h5>Dhaka, Bangladesh</h5>
+            <h5>Virginia, USA</h5>
             <img src="https://www.odu.edu/sites/default/files/logos/univ/png-72dpi/odu-secondary-noidea-fullcolor.png" alt="old dominion university Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
@@ -271,9 +271,9 @@ author_profile: true
         <!-- Role 3: Cooperative spectrum sensing technique CR-VANET -->
         <div class="experience-card">
             <h3>Cooperative spectrum sensing technique CR-VANET</h3>
-            <h4><a href="https://bcc.gov.bd/" target="_blank">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a> · May 2018 – Sep 2019</h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bangladesh_Computer_Council_Logo.svg" alt="Bangladesh Computer Council Logo">
+            <h4><a href="https://www.ui.ac.ir/EN" target="_blank">University of Isfahan</a> May 2018 – Sep 2019</h4> 
+            <h5>Isfahan, Iran</h5>
+            <img src="/images/University_of_Isfahan_Logo.png" alt="university of Isfahan Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Designed a data-driven consensus algorithm leveraging advanced statistics and machine learning to enhance spectrum sensing accuracy by 98%, optimizing band detection and reducing spectrum handoffs.</li>
@@ -288,8 +288,8 @@ author_profile: true
         <div class="experience-card">
             <h3>Data Science Developer- Online Registration (ideal for camps, and classes)</h3>
             <h4><a href="https://jumbula.com/" target="_blank">Jumbula</a> · Jul 2019 – Sep 2021</h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://play-lh.googleusercontent.com/cEk_c4aNXPvN5SdT8IdDdSfHgFrtxhBx__0PGWafT6Y81Jv4I6nwBElLgdzkIQS7d868" alt="Eastern Bank PLC Logo">
+            <h5>California, USA</h5>
+            <img src="/images/jumbula.jpg" alt="Jumbula Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Designed a data-driven online registration system using ASP.NET Core and SQL Server, applying machine learning to analyze user behavior and forecast enrollment trends, enhancing reporting accuracy and resource planning.</li>
@@ -301,8 +301,8 @@ author_profile: true
         <div class="experience-card">
             <h3>Software Developer- High-Speed Internet and Communication </h3>
             <h4><a href="http://shop.panaone.com/" target="_blank">Panaone</a> · Mar 2017 – Jul 2019</h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://1000logos.net/wp-content/uploads/2023/03/KPMG-logo.png" alt="KPMG Bangladesh Logo">
+            <h5>Isfahan, Iran</h5>
+            <img src="/images/panaone.jpg" alt="panaone Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Established customer internet service processes using Process Maker and Magento Deployment. Integrated these systems by 92% with a central C# and SQL Server-driven server.</li>
