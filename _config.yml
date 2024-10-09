@@ -86,7 +86,7 @@ author:
   location         : "Dallas-Fort Worth Metroplex, Texas"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=GkHqCvAAAAAJ&hl=en"
   email            : "sxz3379@mavs.uta.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SaharZargarzadeh"
+  github           : "https://github.com/SaharZargarzadeh"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sahar-zargarzadeh/" 
+  linkedin         : "www.linkedin.com/in/sahar-zargarzadeh" 
   orcid            : 
   pinterest        :
   soundcloud       :
