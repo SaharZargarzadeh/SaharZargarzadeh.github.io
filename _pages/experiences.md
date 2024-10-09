@@ -234,13 +234,13 @@ author_profile: true
 
 <!-- Professional Experiences Section -->
 <div class="content">
-    <h2>Building a Strong Foundation with 12+ Years of Professional Expertise</h2>
+    <h2>Academic Experience</h2>
     <div class="separator"></div>
 
     <!-- Experience cards -->
     <div class="experience-container">
 
-        <!-- Role 1: Graduate Student Researcher -->
+        <!-- Role 1: Design a Power Consumption ML Backdoor Attack in the Spirit of Mirai for IoT devices  -->
         <div class="experience-card">
             <h3>Graduate Student Researcher</h3>
             <h4><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a> · Aug 2023 – Present</h4>
@@ -300,6 +300,9 @@ Government.</li>
                 <li>Oversaw auditing efforts for the <a href="https://ndc.bcc.gov.bd/" target="_blank">National Data Center (NDC)</a>, <a href="https://www.cirt.gov.bd/" target="_blank">BGD e-GOV CIRT</a>, <a href="https://bdccl.gov.bd/" target="_blank">Tier IV National Data Center</a>, and Critical Information Infrastructures (CIIs) by ensuring compliance with stringent security standards.</li>
             </ul> 
         </div>
+
+ <h2>Professional Experience</h2>
+    <div class="separator"></div>
 
         <!-- Role 4: Assistant Vice President -->
         <div class="experience-card">
