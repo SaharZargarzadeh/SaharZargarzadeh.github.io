@@ -190,8 +190,10 @@ author_profile: true
     
             <h5><a href="https://www.linkedin.com/learning/certificates/a4d98e1fda6138d1ed683c463d1858d6c0d0018d61672cd36ac57dce59b0f1db?u=56687537" target="_blank">Docker Foundation Professional Certificate</a></h5>
            
-       <h6 style="margin-top: 0;">Sep 2024</h6>
+       <h5 style="margin-top: 0;">Sept 2024</h5>
 
+
+<span style="display:block;">Sep 2024</span>
         </div>
 
         <div class="certification-card">
