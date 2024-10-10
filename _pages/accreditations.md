@@ -176,6 +176,36 @@ author_profile: true
             font-size: 14px;
         }
 
+/* Certification card styling */
+    .certification-card {
+        display: flex;
+        flex-direction: column; /* Ensures title and date stack vertically */
+        align-items: flex-start;
+        padding: 10px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .certification-card h5 {
+        font-size: 16px;
+        font-weight: bold;
+        margin: 0;
+        color: #1e3d8f;
+    }
+
+    .certification-card h6 {
+        font-size: 14px;
+        font-weight: normal;
+        margin-top: 5px;
+        color: #666;
+    }
+
+    .certification-card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    }
     </style>
 </head>
 <body>
@@ -193,7 +223,7 @@ author_profile: true
        <h5 style="margin-top: 0;">Sept 2024</h5>
 
 
-<span style="display:block;">Sep 2024</span>
+
         </div>
 
         <div class="certification-card">
