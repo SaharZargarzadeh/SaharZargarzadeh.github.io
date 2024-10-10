@@ -234,28 +234,6 @@ author_profile: true
     </style>
 </head>
 <body>
-
-    <!-- Leadership Traits Section -->
-    <div class="education-layout">
-        <div class="separator">
-            <span>Leadership Traits</span>
-        </div>
-
-        <div class="education-card">
-            <div>
-                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://secure.touchnet.net/C21611_ustores/web/product_detail.jsp?PRODUCTID=1524" target="_blank" style="text-decoration: none; color: #1e3d8f;">2024 Fall Leadership Retreat</a></h5>
-                <p style="margin-top: 8px;">I improved my leadership abilities through the program hosted by <a href="https://www.uta.edu/student-affairs/leadership" target="_blank" style="text-decoration: none; color: #1e3d8f;">The Follett Student Leadership Center, UTA</a>. The weekend's immersive workshops, team-building activities, and networking opportunities helped me uncover my strengths, build meaningful connections, and inspire positive change on campus.<br></p>
-            </div>
-        </div>
-
-        <div class="education-card">
-            <div>
-                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://www.uta.edu/student-affairs/leadership/programs/team-certification-program" target="_blank" style="text-decoration: none; color: #1e3d8f;">Team Certification Program : 2023</a></h5>
-                <p style="margin-top: 8px;">I gained practical skills to strengthen team dynamics and leadership through the 4-week TEAM series, focusing on Trust, Encouragement, Accountability, and Motivation. This program helped me foster a collaborative, motivated, and accountable team environment, empowering individuals, enhancing communication, and driving collective success.<br></p>
-            </div>
-        </div>       
-    </div>
-
     <!-- Engagements Section -->
     <div class="education-layout">
         <div class="separator">
@@ -275,34 +253,7 @@ author_profile: true
                 <p style="margin-top: 8px;">Attending the programming contest sharpened my Python and C skills while fostering teamwork and problem-solving under time constraints, enhancing technical expertise and collaboration.<br></p>
             </div>
         </div>
-
-        <div class="education-card">
-            <div>
-                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://www.facebook.com/CodeWarriorsChallenge/" target="_blank" style="text-decoration: none; color: #1e3d8f;">Code Warrior Challenge : 2014</a></h5>
-                <p style="margin-top: 8px;">Attending the Code Warriors' Challenge by <a href="https://basis.org.bd/" target="_blank" style="text-decoration: none; color: #1e3d8f;">Bangladesh Association of Software and Information Services (BASIS)</a> helped me tackle real-life IT problems, sharpening my industry skills and preparing me for real-world tech challenges.<br></p>
-            </div>
-        </div>
-
-        <div class="education-card">
-            <div>
-                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://events.uta.edu/event/global_grounds_4175" target="_blank" style="text-decoration: none; color: #1e3d8f;">Global Grounds</a></h5>
-                <p style="margin-top: 8px;">Attending Global Grounds at UTA allowed me to network with diverse students, broadening my cultural awareness and global perspective. Themed events like Diwali and Halloween enriched my understanding of traditions, while the relaxed setting fostered meaningful connections and cross-cultural dialogue, enhancing both personal growth and community engagement.<br></p>
-            </div>
-        </div>       
-    </div>
-
-    <!-- Coaching Section -->
-    <div class="education-layout">
-        <div class="separator">
-            <span>Coaching</span>
-        </div>
-
-        <div class="education-card">
-            <div>
-                <span class="bullet"></span><h5 style="display: inline-block;"><a href="#" style="text-decoration: none; color: #1e3d8f;">Cybersecurity Mentoring</a></h5>
-                <p style="margin-top: 8px;">I have trained over 100 mid to senior-level professionals from fintechs, law enforcement, and government agencies in IT auditing and cybersecurity, providing basic and advanced training.<br></p>
-            </div>
-        </div>
+      
     </div>
 
     <!-- Talks Section -->
@@ -313,25 +264,38 @@ author_profile: true
 
         <div class="education-card">
             <div>
-                <span class="bullet"></span><h5 style="display: inline-block;"><a href="#" style="text-decoration: none; color: #1e3d8f;">Tech Leadership Dialogue</a></h5>
-                <p style="margin-top: 8px;">As a speaker, I addressed the rising cyber threats in the financial sector, with over 50,000 global attacks daily. I highlighted major data breaches, including 11.5 million leaked documents and vulnerabilities in local banks, emphasizing the need for robust cybersecurity and secure online banking to protect financial institutions.<br></p>
+                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://drive.google.com/file/d/1pLBMTx6DcmoWYzowUkdaguZ4Qj6uC8sD/view" style="text-decoration: none; color: #1e3d8f;">Student Computing Research Festival in PhD lighting talks</a></h5>
+                
+                <p style="margin-top: 8px;">I had the opportunity to present my research at the Student Computing Research Festival during the PhD Lightning Talks, where I shared insights on AI-driven adversarial attacks in power-side channel analysis. This experience allowed me to engage with fellow researchers and showcase the impact of my work in advancing AI/ML.<br></p>
             </div>
-        </div>          
-    </div>
+        </div>   
 
-    <!-- Talks Section -->
-    <div class="education-layout">
-        <div class="separator">
-            <span>Games & Sports</span>
-        </div>
-
-        <div class="education-card">
+         <div class="education-card">
             <div>
-                <span class="bullet"></span><h5 style="display: inline-block;"><a href="#" style="text-decoration: none; color: #1e3d8f;">Agility and Strategy through Sports</a></h5>
-                <p style="margin-top: 8px;">Excelling in swimming, boxing, chess, cycling, squash, and team sports like football, cricket, tennis, and badminton has sharpened my physical fitness, strategic thinking, and teamwork.<br></p>
+                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://drive.google.com/file/d/1oCm5cAzu6KqTeZ7_YnEl_3SpcDbj16i-/view" style="text-decoration: none; color: #1e3d8f;">PhD lighting talks at the 50th Anniversary of Computer Department</a></h5>
+                
+                <p style="margin-top: 8px;">I had the privilege to present at the PhD Lightning Talks during the 50th Anniversary of the Computer Science and Engineering Department, where I discussed my research on AI-based techniques for detecting and evading adversarial attacks. It was an inspiring event that highlighted the department's rich history while providing a platform to showcase cutting-edge innovations in the field.<br></p>
             </div>
-        </div>          
+        </div>   
+
+         <div class="education-card">
+            <div>
+                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://drive.google.com/file/d/1INGXH3lVxK_M0Slcnt25DAhdWgR9hTJ_/view?usp=drive_link" style="text-decoration: none; color: #1e3d8f;">Third International Conference on Internet of Things and Applications</a></h5>
+                
+                <p style="margin-top: 8px;">In May 2019, I presented my work on "Cooperative Spectrum Sensing for CR-VANET" at the Third International Conference on the Internet of Things and Applications. The talk focused on enhancing spectrum sensing techniques in cognitive radio vehicular ad-hoc networks (CR-VANET) to improve communication efficiency in IoT-based vehicular systems.<br></p>
+            </div>
+        </div>  
+
+          <div class="education-card">
+            <div>
+                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://drive.google.com/file/d/1XBz9t2TNnRII6WqDncMjLmURG-y8JZZo/view?usp=drive_link" style="text-decoration: none; color: #1e3d8f;">First International Conference on Transfer of Knowledge</a></h5>
+                
+                <p style="margin-top: 8px;">In September 2016, I presented "A Trilateral Cross-Cultural e-Negotiation System" at the First International Conference on Transfer of Knowledge. The presentation explored the development of a digital negotiation platform designed to facilitate cross-cultural negotiations between participants from different countries, emphasizing communication strategies and cultural adaptability.<br></p>
+            </div>
+        </div>  
+        
     </div>
+
     
 <footer>
 </footer>
