@@ -189,6 +189,7 @@ author_profile: true
         <div class="certification-card">
     
             <h5><a href="https://www.linkedin.com/learning/certificates/a4d98e1fda6138d1ed683c463d1858d6c0d0018d61672cd36ac57dce59b0f1db?u=56687537" target="_blank">Docker Foundation Professional Certificate</a></h5>
+            <br/>
             <h6> Sep 2024</h6>
         </div>
 
@@ -203,7 +204,7 @@ author_profile: true
         <div class="certification-card">
 
         <h5><a href="https://www.linkedin.com/learning/certificates/25729bde44f9d8ec04fc72c2ca0016db2b4c632815deead2b4fdbf62fedc7084?u=56687537" target="_blank">Azure Machine Learning Development Certificate</a></h5> <br/>
-            
+            <br/>
             <h6> Aug 2023</h6>
         </div>
 
