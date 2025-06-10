@@ -1,11 +1,16 @@
 ---
-layout: post
+layout: single
 title: "Securing AI/ML Models in IoT Devices: Lessons from Power-Based Adversarial Attacks"
 date: 2025-06-09
 categories: [AI Security, Research]
-tags: [adversarial ml, power side-channel, transformers, explainable ai]
+tags: [adversarial-ml, power-side-channel, transformers, explainable-ai]
 author: Sahar Zargarzadeh
+read_time: true
+comments: true
+share: true
+related: true
 ---
+
 
 As AI/ML models become core components of IoT security systems, their **vulnerability to adversarial manipulation** presents serious risks. While most adversarial research focuses on image or text data, my work explores a **less studied but highly potent vector: power side-channel signals**.
 
